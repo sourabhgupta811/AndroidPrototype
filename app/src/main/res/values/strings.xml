@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AssesmentProject</string>
+    <string name="dummy_text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam dolorum earum pariatur unde? Aperiam distinctio facere iusto officia quasi sint voluptatibus. A culpa hic in iure, maiores molestiae perspiciatis veniam.</string>
+    <string name="button_transition">activity_button_to_detail_button</string>
+    <string name="image_transition">activity_image_to_detail_image</string>
+    <string name="detail_title_text">Candy\nBust</string>
+    <string name="play">PLAY</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="progress_status">20MB / 30MB</string>
+</resources>

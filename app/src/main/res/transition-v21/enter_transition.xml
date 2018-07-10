@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transitionSet xmlns:android="http://schemas.android.com/apk/res/android">
+    <changeImageTransform android:interpolator="@android:interpolator/overshoot" />
+    <fade
+        android:duration="270"
+        android:interpolator="@android:interpolator/overshoot" />
+    <arcMotion android:interpolator="@android:interpolator/overshoot" />
+    <changeBounds
+        android:duration="270"
+        android:interpolator="@android:interpolator/overshoot" />
+</transitionSet>
